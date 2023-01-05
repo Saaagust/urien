@@ -1,2 +1,2 @@
 #urien
-# It's pronounced as "oo-ree-yan"
+# It's pronounced as "oo-ree-yen"
